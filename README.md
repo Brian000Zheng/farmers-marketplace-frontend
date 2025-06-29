@@ -1,4 +1,28 @@
-# Getting Started with Create React App
+# Farmers Marketplace - Frontend
+
+A React.js frontend for the Farmers Marketplace project, supporting product listing, user management, data visualization, and more.
+
+## Features
+
+- User login and registration
+- Product display and management
+- Dashboard with charts/analytics
+- Order management (to be added)
+
+## Tech Stack
+
+- React.js (TypeScript)
+- State Management: Context API / Redux (choose one)
+- UI Library: Ant Design / MUI (choose one)
+- Chart: Recharts
+
+## Quick Start
+
+```bash
+git clone https://github.com/Brian000Zheng/farmers-marketplace-frontend.git
+cd farmers-marketplace-frontend
+npm install
+npm start# Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
