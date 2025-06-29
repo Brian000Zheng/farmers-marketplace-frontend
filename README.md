@@ -3,8 +3,6 @@
 A React.js frontend for the Farmers Marketplace project, supporting product listing, user management, data visualization, and more.
 
 ## Features
-
-- User login and registration
 - Product display and management
 - Dashboard with charts/analytics
 - Order management (to be added)
